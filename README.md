@@ -1,7 +1,7 @@
 **Scrolling the image as a background**！
 
 ### Preview
-![Preview](./images/exmaple.gif)
+![Preview](./images/example.gif)
 
 ## Author
 - E-mail:  fury21@mail.ru
