@@ -1,4 +1,4 @@
-**Scrolling the image as a background**！
+**Self scrolling image as a background**！
 
 ### Preview
 ![Preview](./images/example.gif)
